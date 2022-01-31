@@ -1,0 +1,47 @@
+Localization
+{
+
+    it-it
+    {
+        #TOOLBAR_UI_OK = OK
+        #TOOLBAR_UI_CANCEL = Annulla
+        #TOOLBAR_UI_FOLDER_SETTINGS = Impostazioni cartella
+        #TOOLBAR_UI_BUTTON_ICON = Icona pulsante:
+        #TOOLBAR_UI_BUTTON_TOOLTIP_TEXT= Testo del tooltip del pulsante:
+        #TOOLBAR_UI_SELECT_ICON = Seleziona Icona
+        #TOOLBAR_UI_CONFIGURE_VISIBLE_BUTTONS = Configura Pulsanti visibili...
+        #TOOLBAR_UI_CONFIGURE_VISIBLE_BUTTONS_HINT = Configura Pulsanti Visibili della Barra degli Strumenti
+
+        #TOOLBAR_UI_CONFIGURE_SCALE = Configura il Ridimensionamento...
+		#TOOLBAR_UI_CONFIGURE_SCALE_HINT = Configura Dimensione Pulsante
+        #TOOLBAR_UI_SCALE_VISIBLE_TITLE = Regola Ridimensionamento Pulsante
+        #TOOLBAR_UI_SCALE_FOLLOW_APP_SCALE = Segui lo scaling dell'App KSP
+        #TOOLBAR_UI_SCALE_FOLLOW_UI_SCALE = Segui la Scala UI di KSP
+        #TOOLBAR_UI_SCALE_USE_SLIDER = Usa il cursore per regolare le dimensioni
+
+        #TOOLBAR_UI_UNLOCK_POSITION_AND_SIZE = Sblocca Posizione e Dimensione
+        #TOOLBAR_UI_LOCK_POSITION_AND_SIZE = Blocca Posizione e Dimensione
+        #TOOLBAR_UI_UNLOCK_BUTTON_ORDER = Sblocca Ordine dei Pulsanti
+        #TOOLBAR_UI_LOCK_BUTTON_ORDER = Blocca Ordine dei Pulsanti
+        #TOOLBAR_UI_DEACTIVATE_AUTO_HIDE = Disattivare Auto-Hide al bordo dello schermo
+        #TOOLBAR_UI_ACTIVATE_AUTO_HIDE = Attivare Auto-Hide al bordo dello schermo
+        #TOOLBAR_UI_HIDE_BORDER = Nascondi Bordo
+        #TOOLBAR_UI_SHOW_BORDER = Mostra Bordo
+        #TOOLBAR_UI_UNITY_SKIN = Usa la Skin 'Smoke' di Unity
+        #TOOLBAR_UI_KSP_SKIN = Usa la Skin di KSP
+        #TOOLBAR_UI_CREATE_NEW_FOLDER = Crea nuova cartella...
+        #TOOLBAR_UI_CREATE_NEW_TOOLBAR = Creare Nuova Barra degli Strumenti
+        #TOOLBAR_UI_DELETE_TOOLBAR = Elimina Barra degli Strumenti...
+        #TOOLBAR_UI_DELETE_TOOLBAR_TITLE = Elimina Barra degli Strumenti
+        #TOOLBAR_UI_DELETE_TOOLBAR_HINT = Eliminane questa Barra degli Strumenti?
+        #TOOLBAR_UI_ABOUT = Informazioni sul plugin Toolbar...
+        #TOOLBAR_UI_NEW_FOLDER = Nuova Cartella
+        #TOOLBAR_UI_EDIT_FOLDER_SETTINGS = Modifica impostazioni cartella
+        #TOOLBAR_UI_DELETE_FOLDER = Elimina Cartella
+        #TOOLBAR_UI_DELETE_FOLDER_HINT = Cancellare questa cartella? I pulsanti all'interno della cartella saranno spostati nella barra degli strumenti principale.
+        #TOOLBAR_UI_CONFIG_VISIBLE_TITLE = Visibilità pulsanti della toolbar
+        #TOOLBAR_UI_CONFIG_VISIBLE_BUTTON = Configura quali pulsanti devono essere visibili nella scena di gioco corrente.
+        #TOOLBAR_UI_CONFIG_VISIBLE_BUTTON_NOTE = Nota: i plugin possono ancora decidere di nascondere i pulsanti da qualsiasi scena di gioco anche se questi pulsanti sono attivi qui.
+        #TOOLBAR_UI_CLOSE = Chiudi
+    }
+}
